@@ -34,7 +34,7 @@
 | 이상치 탐지 (Anomaly/Outlier Detection) | 대부분의 데이터와 크게 다른 패턴을 보이는 데이터를 찾아냄 |
 
 #### 2-3. 강화학습 (Reinforcement Learning)
-- 환경(Environment) & 보상(Reward) 기반으로 학습.
+환경(Environment) & 보상(Reward) 기반으로 학습.
 
 ### 3. 지도 학습의 평가지표
 

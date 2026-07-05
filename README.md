@@ -10,10 +10,10 @@
 [맥북 중고 매입가 산정 자동화 프로젝트](./01-macbook-pricing-project)
 
 ### 2. 자격증 학습 기록
-- [ADsP](./02-certifications/ADsP)
-- [SQLD](./02-certifications/SQLD)
-- [빅데이터분석기사](./02-certifications/bigdata-analyst)
+- [ADsP](02-certifications/ADsP)
+- [SQLD](02-certifications/SQLD)
+- [빅데이터분석기사](02-certifications/bigdata-analyst)
 
 ### 3. NDT RT 이미지 ROI 탐지 프로젝트
-[프로젝트 회고](./03-ndt-project-reflection)
+[프로젝트 회고](03-ndt-project-reflection)
 
